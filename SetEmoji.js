@@ -80,8 +80,7 @@ const autoReactions = (function() {
     };
   })();
   
-  // Example usage
-  autoReactions.startReacting('👍', 1000); // Start liking on meet
-  autoReactions.startReacting('😂', 200); // Start laughing on meet
+  //autoReactions.startReacting('👍', 1000); // Start liking on meet
+  //autoReactions.startReacting('😂', 200); // Start laughing on meet
   // autoReactions.stopReacting(); // Stops reactions
   
